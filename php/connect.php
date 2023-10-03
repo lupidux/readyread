@@ -5,5 +5,5 @@ $db_handle = pg_connect("host=localhost dbname=readyread user=carlo password=adm
     echo 'Connection attempt succeeded.';
 } else {
     echo 'Connection attempt failed.';
-}
-?> */
+} */
+?>
